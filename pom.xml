@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.zjk</groupId>
   <artifactId>dom4j-big-xml</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0-RELEASE</version>
   <properties>
    <java.version>1.8</java.version>
   </properties>
