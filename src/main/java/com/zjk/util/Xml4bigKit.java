@@ -123,7 +123,8 @@ public class Xml4bigKit {
 				  if(range.getFrom()>0){
 					  String elementText="";
 					  try{
-						 elementText=cache.substring(range.getFrom(), range.getTo());
+						  
+						elementText=cache.substring(range.getFrom(), range.getTo());
 					    Document doc = DocumentHelper.parseText("<Root>"+elementText+"</Root>");  
 					    
 				        Element elem = doc.getRootElement(); 
