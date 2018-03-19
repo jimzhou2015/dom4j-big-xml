@@ -12,7 +12,7 @@ public class GenXml {
 	 if(file.exists()){
 		 file.delete();
 	 }
-	 int len =10;
+	 int len =1000000;
 	 file.createNewFile();
 	 BufferedWriter bw = null;  
 	 FileWriter fw = new FileWriter(file);  
