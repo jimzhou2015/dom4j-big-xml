@@ -28,10 +28,11 @@ public class Xml4bigKit {
 	
 	/**
 	 * 
-	 * @param xpath file path
-	 * @param dataStartTag (for example N1  or  N1/N2/N3.....)
-	 * @param cls target object
-	 * @return
+	 * @param xpath
+	 * @param dataStartTag
+	 * @param cls
+	 * @param handle
+	 * @param readLen
 	 */
 	
 	@SuppressWarnings("unchecked")
