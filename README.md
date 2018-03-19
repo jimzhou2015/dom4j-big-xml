@@ -18,5 +18,5 @@ handle big xml with dom4j
   
   handle and then continue to read read 20000 chars  to go on until the file is read over
   
-3. for example for test
+3. for the example  test
 
